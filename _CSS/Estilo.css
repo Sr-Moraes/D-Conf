@@ -1,0 +1,60 @@
+*{margin: 0px; padding: 0px;}
+
+body{
+    background-color: lime;
+}
+
+#site{
+    font-family: helvetica, sans-serif;
+    font-size: 12px;
+    width: 1000px;
+    height: 955px;
+    margin: auto;
+    padding: 0px 10px;
+    background-color:rgb(153, 148, 148);
+}
+
+p{
+    text-align: justify;
+}
+
+header{
+    margin: auto;
+    width: 1000px;
+    height: 30px;
+    background-color: gray;
+    
+    
+}
+
+.menu ul{float: right;}
+
+.menu li{
+    display: inline;
+    padding-right: 15px;
+}
+
+#menu-left{
+    width: 200px;
+    height: 670px;
+    margin: auto;
+    background-color: aquamarine;
+    float: left;
+
+}
+
+#menu-right{
+    width: 200px;
+    height: 670px;
+    margin: auto;
+    background-color: aquamarine;
+    float: right;
+
+}
+
+footer{
+    width: 1000px;
+    margin: auto;
+    padding: 0px 10px;
+    background-color: blanchedalmond;
+}
